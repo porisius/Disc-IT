@@ -2,7 +2,7 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1",
-	"SemVersion": "1.0.1",
+	"SemVersion": "1.0.2",
 	"FriendlyName": "DiscIT",
 	"Description": "",
 	"Category": "Modding",
@@ -27,6 +27,11 @@
 		{
 			"Name": "SML",
 			"SemVersion": "^3.2.1",
+			"Enabled": true
+		},
+		{
+			"Name": "JSONQuery",
+			"SemVersion": "^1.0.5",
 			"Enabled": true
 		}
 	]
